@@ -1,5 +1,3 @@
-# compVisual
- 
 # Computação Visual
 
 <b>Integrantes do grupo:</b> 
