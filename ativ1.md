@@ -13,7 +13,7 @@ Como primeiro “post do blog”, publique a resposta de cada integrante do grup
 <p>xxxx</p>
 
 <h2>Gabriel Santos</h2>
-<p>Acredito na disciplina de computaçao visual veremos como é o processamento de imagens, como funciona a otimização das mesmas em jogos, como elas ficam tão bonitas, custando tão pouco para o computador.</p>
+<p>Acredito que na disciplina de computaçao visual veremos como é o processamento de imagens, como funciona a otimização das mesmas em jogos, como elas ficam tão bonitas, custando tão pouco para o computador.</p>
 
 <h2>Paulo Henrique Camargo</h2>
 <p>xxxx</p>
