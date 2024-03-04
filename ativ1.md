@@ -10,7 +10,7 @@ Como primeiro “post do blog”, publique a resposta de cada integrante do grup
 <P>Pra mim, a Computação Visual é a parte da tecnologia que estuda como a máquina pode "enxergar" e interpretar o mundo visual. E além de estudar, dá a capacidade de entender um pouco do mundo como nós, humanos, vemos. Nela também é analisada a parte de dados visuais, como imagens e vídeos, reconhecimento facial, objetos entre outros exemplos. </P>
 
 <h2>Enzo D'amato</h2>
-<p>xxxx</p>
+<p>Usar computadores para analisar imagens e vídeos para facilitar a nossa vida. </p>
 
 <h2>Gabriel Santos</h2>
 <p>Acredito que na disciplina de computaçao visual veremos como é o processamento de imagens, como funciona a otimização das mesmas em jogos, como elas ficam tão bonitas, custando tão pouco para o computador.</p>
