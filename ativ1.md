@@ -16,5 +16,6 @@ Como primeiro “post do blog”, publique a resposta de cada integrante do grup
 <p>Acredito que na disciplina de computaçao visual veremos como é o processamento de imagens, como funciona a otimização das mesmas em jogos, como elas ficam tão bonitas, custando tão pouco para o computador.</p>
 
 <h2>Paulo Henrique Camargo</h2>
-<p>xxxx</p>
+<p>A computação visual parece ser uma área da computação que se concentra em processar imagens e vídeos. Parece que envolve análise de pixels e criação de gráficos ou arte digital. Alguns podem argumentar que é apenas uma forma de entretenimento e desperdício de poder de processamento, mas pode haver mais do que parece à primeira vista.</p>
+
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzZ6ZDgyNm9lNzBsaDVqaXFmNTZidmoxNGE2aTh6ODZkZWxtZG4wYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/d3mlE7uhX8KFgEmY/giphy.gif">
